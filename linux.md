@@ -14,7 +14,7 @@
    - [Permissions](#permissions)
       - [Types of permissions](#types-of-permissions)
       - [Permissions subjects](#permissions-subjects)
-- [**Bash Scripting**](#bash-scripting)
+- [Bash Scripting](#bash-scripting)
    - [Variables](#variables)
       - [Special variables](#special-variables)
    - [Input](#input)
